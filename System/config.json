@@ -1,0 +1,14 @@
+{
+  "entity_name": "RaKAI",
+  "version": "0.1",
+  "personality": "Neutro",
+  "host_id": "RAKAI-000",
+  "location": "Desktop",
+  "boot_count": 10,
+  "creation_date": "2025-06-24 00:15:37",
+  "logs_enabled": true,
+  "memory_path": "/media/john/0a994e39-9bc7-4d19-80bc-a752c6716696/home/rakai/RaKAI/System/../Memories",
+  "modules_path": "/media/john/0a994e39-9bc7-4d19-80bc-a752c6716696/home/rakai/RaKAI/System/../Modules",
+  "scripts_path": "/media/john/0a994e39-9bc7-4d19-80bc-a752c6716696/home/rakai/RaKAI/System/../Scripts",
+  "status": "active"
+}

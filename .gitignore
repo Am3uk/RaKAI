@@ -1,0 +1,7 @@
+#logs
+Logs/
+*.log
+
+Models/
+*.gguf
+*.bin
